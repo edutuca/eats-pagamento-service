@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: eats-pagamento-service
+Bundle-SymbolicName: eats-pagamento-service
+Bundle-Version: 1.0.0.qualifier
+Export-Package: br.com.caelum.eats.exception,
+ br.com.caelum.eats.pagamento,
+ br.com.caelum.eatspagamentoservice
